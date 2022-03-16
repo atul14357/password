@@ -1,7 +1,12 @@
 {
   "name": "google-password-clone",
   "version": "0.1.0",
-  "private": true,
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
